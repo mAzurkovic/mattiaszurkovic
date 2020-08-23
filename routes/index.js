@@ -10,4 +10,9 @@ router.get('/experience', function(req, res, next) {
   res.render('experience', { title: 'Express' });
 });
 
+router.get('/projects', function(req, res, next) {
+  res.render('projects', { title: 'Express' });
+});
+
+
 module.exports = router;
