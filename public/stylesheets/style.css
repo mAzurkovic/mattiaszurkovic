@@ -1,0 +1,23 @@
+
+body {
+  border-top: 5px solid #c70037;
+  padding: 50px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+a {
+  color: #c70037;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#icons {
+  padding-right: 20px;
+}
