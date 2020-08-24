@@ -1,4 +1,4 @@
-FROM node:14.8.0-alpine3.10
+FROM node:latest
 
 WORKDIR /site
 COPY package*.json ./
