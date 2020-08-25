@@ -10,7 +10,8 @@ a {
 }
 
 .profile-img {
-  border-radius: 50%;
+  height: 200px;
+  border-radius: 5%;
 }
 
 .center {
@@ -20,4 +21,13 @@ a {
 
 #icons {
   padding-right: 20px;
+}
+
+.sub-title {
+  font-style: italic;
+}
+
+.img-projects {
+  height: 200px;
+  border-radius: 5%;
 }
